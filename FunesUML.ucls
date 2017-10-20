@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="org.funes.controller.HomeController" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/controller/HomeController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="154" x="219" y="43"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="org.funes.controller.BoardController" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/controller/BoardController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="114" x="413" y="43"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="org.funes.controller.MemberController" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/controller/MemberController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="127" x="567" y="43"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="org.funes.domain.LibraryBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/LibraryBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="146" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="org.funes.domain.MainBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/MainBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="295" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="org.funes.domain.IMainBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/IMainBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="438" y="258"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="org.funes.domain.MemberVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/MemberVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="575" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="org.funes.domain.WeekBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/WeekBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="713" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="org.funes.domain.IMemberVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/IMemberVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="858" y="258"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="org.funes.domain.NoticeBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/NoticeBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1005" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="org.funes.domain.QuestionBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/QuestionBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1164" y="267"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="org.funes.domain.IFunesVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/IFunesVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="103" x="1359" y="319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="org.funes.domain.RRBoardVO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/domain/RRBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="93" x="1502" y="319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="org.funes.persistence.IMemberDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/IMemberDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="131" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="org.funes.persistence.WeekBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/WeekBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="281" y="444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="16" language="java" name="org.funes.persistence.ISubBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/ISubBoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="433" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="17" language="java" name="org.funes.persistence.IBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/IBoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="578" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="18" language="java" name="org.funes.persistence.IFunesDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/IFunesDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="721" y="435"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="19" language="java" name="org.funes.persistence.NoticeBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/NoticeBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="872" y="444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="org.funes.persistence.RRBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/RRBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1022" y="444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="org.funes.persistence.LibraryBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/LibraryBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1174" y="444"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="org.funes.persistence.QuestionBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/QuestionBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="134" x="1368" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="org.funes.persistence.MainBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/MainBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="110" x="1542" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="org.funes.persistence.IMainBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/IMainBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="63" width="113" x="1692" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="25" language="java" name="org.funes.persistence.MemberDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/MemberDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="101" x="1845" y="496"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="org.funes.service.IBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/IBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="104" x="48" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="org.funes.service.WeekBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/WeekBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="134" x="192" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="org.funes.service.MainBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/MainBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="128" x="366" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="org.funes.service.NoticeBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/NoticeBoardService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="137" x="534" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="30" language="java" name="org.funes.service.IFunesService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/IFunesService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="104" x="711" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="31" language="java" name="org.funes.service.LibraryBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/LibraryBoardService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="141" x="855" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="32" language="java" name="org.funes.service.IMemberService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/IMemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="117" x="1036" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="33" language="java" name="org.funes.service.ISubBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/ISubBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="126" x="1193" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="34" language="java" name="org.funes.service.MemberService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/MemberService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="114" x="1359" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="org.funes.service.QuestionBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/QuestionBoardService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="152" x="1513" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="36" language="java" name="org.funes.service.IMainBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/IMainBoardService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="63" width="131" x="1705" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="37" language="java" name="org.funes.service.RRBoardService" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/service/RRBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="117" x="1876" y="537"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+<!-- typeAliases : parameterType, resultType에서 사용하는 클래스의 패키지를 생략가능하도록 함 -->
+	<typeAliases>
+		<package name="org.funes.domain"/>
+	</typeAliases>
+
+</configuration>
