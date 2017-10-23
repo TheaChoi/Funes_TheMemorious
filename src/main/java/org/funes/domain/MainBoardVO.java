@@ -1,5 +1,5 @@
 package org.funes.domain;
 
-public class LibraryBoardVO {
+public class MainBoardVO {
 
 }

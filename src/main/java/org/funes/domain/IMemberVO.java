@@ -1,5 +1,5 @@
 package org.funes.domain;
 
-public class BoardVO {
+public interface IMemberVO {
 
 }

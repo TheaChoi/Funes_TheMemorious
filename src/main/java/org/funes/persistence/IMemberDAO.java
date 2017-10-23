@@ -1,5 +1,5 @@
 package org.funes.persistence;
 
-public class MemberDAO {
+public interface IMemberDAO {
 
 }

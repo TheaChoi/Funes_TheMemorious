@@ -1,9 +1,5 @@
 package org.funes.persistence;
 
-import org.springframework.stereotype.Repository;
+public class QuestionBoardDAO {
 
-@Repository
-public class QuestionBoardDAO extends BoardDAO {
-
-	private static String namespace = "questionBoard_Mapper";
 }
