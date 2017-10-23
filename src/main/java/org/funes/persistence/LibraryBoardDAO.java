@@ -1,5 +1,11 @@
 package org.funes.persistence;
 
-public class LibraryBoardDAO {
+import org.springframework.stereotype.Repository;
 
+@Repository
+public class LibraryBoardDAO extends BoardDAO {
+	
+	private static String namespace = "org.funes.libraryBoard";
+
+	 
 }

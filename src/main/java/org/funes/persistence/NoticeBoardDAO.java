@@ -1,5 +1,9 @@
 package org.funes.persistence;
 
-public class NoticeBoardDAO {
+import org.springframework.stereotype.Repository;
 
+@Repository
+public class NoticeBoardDAO extends BoardDAO{
+
+	private static String namespace = "noticeBoard_Mapper";
 }
