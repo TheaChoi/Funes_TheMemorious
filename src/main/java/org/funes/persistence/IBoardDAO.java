@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.funes.domain.BoardVO;
 
-public interface IBoardDAO extends IFunesDAO {
+public interface IBoardDAO {
 	
 	public void create(BoardVO vo) throws Exception;
 	
