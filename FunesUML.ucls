@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.2.1" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+<<<<<<< HEAD
   <class id="1" language="java" name="org.funes.controller.HomeController" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/controller/HomeController.java" binary="false" 
     corner="BOTTOM_RIGHT">    
@@ -70,6 +71,11 @@
   <class id="8" language="java" name="org.funes.domain.WeekBoardVO" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/domain/WeekBoardVO.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="713" y="267"/>    
+=======
+  <class id="1" language="java" name="org.funes.persistence.WeekBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/WeekBoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="404" y="707"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -151,13 +157,18 @@
   </interface>  
   <interface id="17" language="java" name="org.funes.persistence.IBoardDAO" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/persistence/IBoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+<<<<<<< HEAD
     <position height="-1" width="-1" x="578" y="435"/>    
+=======
+    <position height="-1" width="-1" x="761" y="182"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </interface>  
+<<<<<<< HEAD
   <interface id="18" language="java" name="org.funes.persistence.IFunesDAO" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/persistence/IFunesDAO.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="721" y="435"/>    
@@ -231,12 +242,19 @@
     file="/FunesTheMemorious/src/main/java/org/funes/persistence/persistence_C/MemberDAO.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="101" x="1845" y="496"/>    
+=======
+  <class id="3" language="java" name="org.funes.persistence.NoticeBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/NoticeBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="561" y="707"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
   <interface id="26" language="java" name="org.funes.service.IBoardService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/IBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="63" width="104" x="48" y="537"/>    
@@ -249,12 +267,18 @@
   <class id="27" language="java" name="org.funes.service.WeekBoardService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/WeekBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="81" width="134" x="192" y="537"/>    
+=======
+  <class id="4" language="java" name="org.funes.persistence.RRBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/RRBoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="719" y="707"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
   <class id="28" language="java" name="org.funes.service.MainBoardService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/MainBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="81" width="128" x="366" y="537"/>    
@@ -268,12 +292,19 @@
     file="/FunesTheMemorious/src/main/java/org/funes/service/NoticeBoardService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="137" x="534" y="537"/>    
+=======
+  <class id="5" language="java" name="org.funes.persistence.LibraryBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/LibraryBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="878" y="707"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
   <interface id="30" language="java" name="org.funes.service.IFunesService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/IFunesService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="63" width="104" x="711" y="537"/>    
@@ -287,12 +318,19 @@
     file="/FunesTheMemorious/src/main/java/org/funes/service/LibraryBoardService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="141" x="855" y="537"/>    
+=======
+  <class id="6" language="java" name="org.funes.persistence.QuestionBoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/QuestionBoardDAO.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1047" y="707"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
   <interface id="32" language="java" name="org.funes.service.IMemberService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/IMemberService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="63" width="117" x="1036" y="537"/>    
@@ -324,12 +362,18 @@
     file="/FunesTheMemorious/src/main/java/org/funes/service/QuestionBoardService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="81" width="152" x="1513" y="537"/>    
+=======
+  <class id="7" language="java" name="org.funes.persistence.BoardDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/BoardDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="748" y="450"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
   <interface id="36" language="java" name="org.funes.service.IMainBoardService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/IMainBoardService.java" binary="false" 
     corner="BOTTOM_RIGHT">    
@@ -343,12 +387,44 @@
   <class id="37" language="java" name="org.funes.service.RRBoardService" project="FunesTheMemorious" 
     file="/FunesTheMemorious/src/main/java/org/funes/service/RRBoardService.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="81" width="117" x="1876" y="537"/>    
+=======
+  <class id="8" language="java" name="org.funes.persistence.MemberDAO" project="FunesTheMemorious" 
+    file="/FunesTheMemorious/src/main/java/org/funes/persistence/MemberDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="209" y="210"/>    
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
+<<<<<<< HEAD
+=======
+  <generalization id="9">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="10">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="11">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="12">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <realization id="13">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+>>>>>>> 90ea41074d7d3ed50aed855dfa05f1ca40d06f2a
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
     <attributes public="true" package="true" protected="true" private="true" static="true"/>    
