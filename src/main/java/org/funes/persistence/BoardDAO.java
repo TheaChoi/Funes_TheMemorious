@@ -18,17 +18,6 @@ public class BoardDAO implements IBoardDAO {
 	
 	
 	
-
-	public String getNamespace() {
-		return namespace;
-	}
-
-	public void setNamespace(String namespace) {
-		this.namespace = namespace;
-	}
-
-	
-	
 	@Override
 	public void create(BoardVO vo) throws Exception {
 		

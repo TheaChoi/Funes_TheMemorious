@@ -5,11 +5,11 @@ import org.springframework.stereotype.Repository;
 @Repository
 public class WeekBoardDAO extends BoardDAO{
 
+	private static String namespace = "weekBoard_Mapper";
 	
 	public WeekBoardDAO() {
-		super();
-		
+		super.namespace = this.namespace;
 	}
 
-	static String namespace = "weekBoard_Mapper";
+	
 }

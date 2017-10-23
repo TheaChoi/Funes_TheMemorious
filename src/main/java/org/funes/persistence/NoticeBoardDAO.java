@@ -6,4 +6,8 @@ import org.springframework.stereotype.Repository;
 public class NoticeBoardDAO extends BoardDAO{
 
 	private static String namespace = "noticeBoard_Mapper";
+
+	public NoticeBoardDAO() {
+		super.namespace = this.namespace;
+	}
 }

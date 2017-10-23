@@ -7,5 +7,9 @@ public class LibraryBoardDAO extends BoardDAO {
 	
 	private static String namespace = "org.funes.libraryBoard";
 
+	public LibraryBoardDAO() {
+		super.namespace = this.namespace;
+	}
+
 	 
 }
